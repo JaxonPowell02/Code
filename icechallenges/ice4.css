@@ -1,0 +1,40 @@
+
+body{
+    background-color: pink;
+}
+
+.box {
+color: white;
+width: 500px;
+margin: 0 auto;
+text-align: center;
+font-size: 2em;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h1:hover{
+    color: black;
+   
+}
+
+.quote{
+    text-align: center;
+    font-size: .1.5em;
+}
+
+ol li{
+    text-align: center;
+}
+
+.picture{
+    margin: 0 auto;
+
+}
+
+img{
+    margin-right: auto;
+}
