@@ -1,0 +1,28 @@
+body{
+    margin: 0 auto;
+}
+
+main{
+    background-color: gray;
+    display: block;
+    text-align: center;
+    padding: 20px;
+    width: 1240px;
+    margin: 0 auto;
+
+}
+
+main img{
+    border-radius: 600px;
+    max-width: 200px;
+    border: 15px solid black;
+    margin: 0 auto;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.heroimg{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
