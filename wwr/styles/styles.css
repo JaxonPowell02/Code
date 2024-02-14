@@ -28,6 +28,10 @@ header{
     font-style: normal;
 }
 
+nav{
+    margin-top: 50px;
+}
+
 nav a{
     text-align: left;
     color: aliceblue;
@@ -42,6 +46,7 @@ nav a:hover{
     color: aliceblue;    
     font-size: 2em;
     margin-right: 20px;
+    border-radius: 5px;
 }
 
 .msg{
