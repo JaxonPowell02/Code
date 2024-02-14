@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+body{
+    margin: 0 auto;
+    text-align: center;
+    background-color: #cd9c48;
+}
+
+h1{
+    margin-bottom: 100px;
+    font-family: "Dancing Script";
+}
+
+nav{
+    margin-top: 50px;
+    margin-bottom: 125px;
+}
+
+nav a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    color: #274770;
+    padding: 15px;
+}
+
+nav a:hover{
+    background-color: #274770;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+p{
+    font-size: 20px;
+}
