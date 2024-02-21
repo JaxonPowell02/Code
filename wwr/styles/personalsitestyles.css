@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 body, header{
-    background-color: #baa26e;
+    background-color: aliceblue;
     text-align: center;
 }
 
@@ -26,5 +26,8 @@ nav a:hover{
     background-color: #9474a1;
     border-radius: 8px;
     color: #baa26e;
+}
 
+footer{
+    margin-top: 500px;
 }
